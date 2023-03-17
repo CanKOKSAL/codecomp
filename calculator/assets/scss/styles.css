@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  margin-top: 90px;
+  padding: 0;
+}
+
+.calculator {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  min-height: 50%;
+  grid-template-columns: repeat(4, 100px);
+  grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+} /*# sourceMappingURL=styles.css.map *//*# sourceMappingURL=styles.css.map */
